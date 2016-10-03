@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>OAuth Test</title>
+  </head>
+  <body>
+    <h2>Login Page</h2>
+    <a href="http://localhost:8000/auth/google"> Start Google Login </a>
+    <br />
+    <a href="http://localhost:8000/isLoggedIn"> Verify Cookie </a>
+  </body>
+</html>
