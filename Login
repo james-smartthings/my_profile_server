@@ -1,9 +1,0 @@
-<html>
-    <head>
-        <title>Hello World</title>
-    </head>
-    <body>
-        <h2>Login Page</h2>
-        <a href="http://localhost:8081/auth/google"> Login </a>
-    </body>
-</html>
